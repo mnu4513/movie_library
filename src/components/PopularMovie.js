@@ -14,7 +14,7 @@ const Movie = () => {
     }, [page]);
 
     async function getData() {
-        const json = await fetch('http://localhost:3002/popular-moives/'+ page);
+        const json = await fetch('https://brief-polished-radar.glitch.me/popular-moives/'+ page);
         const data = await json.json();
         setMovies(data.data.results)
     };

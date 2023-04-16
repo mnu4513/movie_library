@@ -13,7 +13,7 @@ const NowPlayingMovies = () => {
     }, []);
 
     async function getData() {
-        const json = await fetch('http://localhost:3002/now-playing-movies');
+        const json = await fetch('https://brief-polished-radar.glitch.me/now-playing-movies');
         const data = await json.json();
         setMovies(data.data.results)
     };

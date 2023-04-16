@@ -13,7 +13,7 @@ const UpcomingMovies = () => {
     }, []);
 
     async function getData() {
-        const json = await fetch('http://localhost:3002/upcoming-moives');
+        const json = await fetch('https://brief-polished-radar.glitch.me/upcoming-moives');
         const data = await json.json();
         setMovies(data.data.results);
     };

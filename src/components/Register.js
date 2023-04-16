@@ -29,7 +29,7 @@ const Register = () => {
             window.alert("accept T&C to register");
             return;
         };
-        const jsonData = await fetch('http://localhost:3002/register-user', {
+        const jsonData = await fetch('https://brief-polished-radar.glitch.me/register-user', {
             method: "post",
             headers: {
                 "Content-Type": "application/json"

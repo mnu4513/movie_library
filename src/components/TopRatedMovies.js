@@ -13,7 +13,7 @@ const TopRatedMovies = () => {
     }, []);
 
     async function getData() {
-        const json = await fetch('http://localhost:3002/top-rated-movies');
+        const json = await fetch('https://brief-polished-radar.glitch.me/top-rated-movies');
         const data = await json.json();
         setMovies(data.data.results)
         console.log(data.data.results);

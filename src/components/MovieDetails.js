@@ -74,7 +74,7 @@ const MovieDetails = () => {
   }, [movieId]);
 
   async function getData() {
-    const data = await fetch('http://localhost:3002/movie-details/' + movieId);
+    const data = await fetch('https://brief-polished-radar.glitch.me/movie-details/' + movieId);
     const json = await data.json();
     setDetails(json.data);
     setSimilars(json.similar.results);
@@ -87,7 +87,7 @@ const MovieDetails = () => {
   // add to favorite list :- 
   async function addToFav(e) {
     e.preventDefault();
-    const data = await fetch('http://localhost:3002/add-to-fav/' + movieId, {
+    const data = await fetch('https://brief-polished-radar.glitch.me/add-to-fav/' + movieId, {
       method: 'post',
       headers: {
         'Content-Type': 'application/json',
@@ -108,7 +108,7 @@ const MovieDetails = () => {
 // remove from favorite list :- 
   async function removeFav(e) {
     e.preventDefault();
-    const data = await fetch('http://localhost:3002/remove-fav/' + movieId, {
+    const data = await fetch('https://brief-polished-radar.glitch.me/remove-fav/' + movieId, {
       method: 'delete',
       headers: {
         'Contet-Type': 'application/json',
@@ -127,7 +127,7 @@ const MovieDetails = () => {
   // add to public list :- 
   async function addToPublic(e) {
     e.preventDefault();
-    const data = await fetch('http://localhost:3002/add-to-public/' + movieId, {
+    const data = await fetch('https://brief-polished-radar.glitch.me/add-to-public/' + movieId, {
       method: 'post',
       headers: {
         'Content-Type': 'application/json',
@@ -148,7 +148,7 @@ const MovieDetails = () => {
   // remove from public list :- 
   async function removePublic(e) {
     e.preventDefault();
-    const data = await fetch('http://localhost:3002/remove-public/' + movieId, {
+    const data = await fetch('https://brief-polished-radar.glitch.me/remove-public/' + movieId, {
       method: 'delete',
       headers: {
         'Contet-Type': 'application/json',

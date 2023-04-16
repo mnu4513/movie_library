@@ -19,7 +19,7 @@ const Login = () => {
             window.alert("enter a strong password");
             return;
         };
-        const jsonData = await fetch('http://localhost:3002/login-user', {
+        const jsonData = await fetch('https://brief-polished-radar.glitch.me/login-user', {
             method: "post",
             headers: {
                 "Content-Type": "application/json"

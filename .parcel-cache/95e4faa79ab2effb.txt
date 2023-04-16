@@ -1,5 +1,5 @@
 9232
-87/home/oozer/Documents/californium/react/movie_library_client/dist/index.7271efb6.js.map1681660301772042762 0
+87/home/oozer/Documents/californium/react/movie_library_client/dist/index.7271efb6.js.map1681661430413936878 0
 88/home/oozer/Documents/californium/react/movie_library_client/dist/index.ab0485ab.css.map1681660301576043648 0
 92/home/oozer/Documents/californium/react/movie_library_client/node_modules/.package-lock.json1681660283941123427 0
 96/home/oozer/Documents/californium/react/movie_library_client/node_modules/.bin/browserslist-lint1681660282446130190 0
@@ -2509,7 +2509,7 @@
 128/home/oozer/Documents/californium/react/movie_library_client/node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.d.ts1681660280360139627 0
 92/home/oozer/Documents/californium/react/movie_library_client/node_modules/lodash/multiply.js1681660281058136469 0
 125/home/oozer/Documents/californium/react/movie_library_client/node_modules/@popperjs/core/lib/utils/getFreshSideObject.js.flow1681660280358139636 0
-93/home/oozer/Documents/californium/react/movie_library_client/src/components/UpcomingMovies.js1681476876148681371 0
+93/home/oozer/Documents/californium/react/movie_library_client/src/components/UpcomingMovies.js1681661396838088771 0
 118/home/oozer/Documents/californium/react/movie_library_client/node_modules/@popperjs/core/lib/utils/orderModifiers.d.ts1681660280417139369 0
 95/home/oozer/Documents/californium/react/movie_library_client/node_modules/lodash/fp/isLength.js1681660280907137152 0
 120/home/oozer/Documents/californium/react/movie_library_client/node_modules/@popperjs/core/lib/utils/getBasePlacement.d.ts1681660280348139681 0
@@ -3059,7 +3059,7 @@
 111/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/utils/test/objectHash.test.js1681660279636142902 0
 110/home/oozer/Documents/californium/react/movie_library_client/node_modules/@remix-run/router/dist/router.cjs.js1681660278243149204 0
 121/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/resolver-default/lib/DefaultResolver.js1681660277620152022 0
-73/home/oozer/Documents/californium/react/movie_library_client/package.json1681381723961797404 0
+73/home/oozer/Documents/californium/react/movie_library_client/package.json1681660747932024371 0
 144/home/oozer/Documents/californium/react/movie_library_client/node_modules/babel-plugin-styled-components/lib/utils/getSequenceExpressionValue.js1681660278386148557 0
 116/home/oozer/Documents/californium/react/movie_library_client/node_modules/react-bootstrap/esm/ToggleButtonGroup.d.ts1681660281165135985 0
 94/home/oozer/Documents/californium/react/movie_library_client/node_modules/lodash/fp/inRange.js1681660280841137451 0
@@ -3607,7 +3607,7 @@
 97/home/oozer/Documents/californium/react/movie_library_client/node_modules/jwt-decode/package.json1681660277959150489 0
 102/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/events/src/errors.js1681660278193149430 0
 91/home/oozer/Documents/californium/react/movie_library_client/node_modules/term-size/license1681660277806151181 0
-91/home/oozer/Documents/californium/react/movie_library_client/src/components/PopularMovie.js1681477364633758926 0
+91/home/oozer/Documents/californium/react/movie_library_client/src/components/PopularMovie.js1681661362976241959 0
 88/home/oozer/Documents/californium/react/movie_library_client/node_modules/lodash/pick.js1681660281145136076 0
 113/home/oozer/Documents/californium/react/movie_library_client/node_modules/@popperjs/core/lib/utils/userAgent.d.ts1681660280434139292 0
 92/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/events/lib1681660278438148322 1
@@ -3911,7 +3911,7 @@
 121/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/reporter-dev-server/src/serverErrors.js1681660278332148801 0
 93/home/oozer/Documents/californium/react/movie_library_client/node_modules/lodash/entriesIn.js1681660280694138116 0
 109/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/package-manager/src/Yarn.js1681660279380144060 0
-93/home/oozer/Documents/californium/react/movie_library_client/src/components/TopRatedMovies.js1681476850836625525 0
+93/home/oozer/Documents/californium/react/movie_library_client/src/components/TopRatedMovies.js1681661390305118326 0
 75/home/oozer/Documents/californium/react/movie_library_client/src/components1681577367407996956 1
 131/home/oozer/Documents/californium/react/movie_library_client/node_modules/@popperjs/core/dist/esm/dom-utils/getHTMLElementScroll.js1681660280480139084 0
 116/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/markdown-ansi/lib/markdown-ansi.js1681660277625152000 0
@@ -4461,7 +4461,7 @@
 111/home/oozer/Documents/californium/react/movie_library_client/node_modules/@swc/helpers/lib/_class_call_check.js1681660278571147720 0
 121/home/oozer/Documents/californium/react/movie_library_client/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js1681660280023141151 0
 107/home/oozer/Documents/californium/react/movie_library_client/node_modules/@babel/helper-environment-visitor1681660277783151285 1
-65/home/oozer/Documents/californium/react/movie_library_client/dist1681660301775042748 1
+65/home/oozer/Documents/californium/react/movie_library_client/dist1681661430425936823 1
 152/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob/src/test.js1681660280192140387 0
 130/home/oozer/Documents/californium/react/movie_library_client/node_modules/@babel/generator/lib/generators/template-literals.js.map1681660279008145743 0
 89/home/oozer/Documents/californium/react/movie_library_client/node_modules/process/test.js1681660278035150145 0
@@ -4517,7 +4517,7 @@
 105/home/oozer/Documents/californium/react/movie_library_client/node_modules/caniuse-lite/data/regions/SL.js1681660281111136229 0
 97/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/watcher/LICENSE1681660277426152900 0
 105/home/oozer/Documents/californium/react/movie_library_client/node_modules/@emotion/memoize/src/index.d.ts1681660278577147693 0
-87/home/oozer/Documents/californium/react/movie_library_client/src/components/Register.js1681576645998193767 0
+87/home/oozer/Documents/californium/react/movie_library_client/src/components/Register.js1681661383818147672 0
 126/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/core/test/fixtures/library-custom-scopehoist1681660280452139211 1
 99/home/oozer/Documents/californium/react/movie_library_client/node_modules/@emotion/stylis/README.md1681660278821146589 0
 111/home/oozer/Documents/californium/react/movie_library_client/node_modules/@babel/types/lib/validators/isNode.js1681660280492139030 0
@@ -4819,7 +4819,7 @@
 121/home/oozer/Documents/californium/react/movie_library_client/node_modules/bootstrap/dist/css/bootstrap-reboot.rtl.css.map1681660280437139278 0
 123/home/oozer/Documents/californium/react/movie_library_client/node_modules/@babel/highlight/node_modules/chalk/index.js.flow1681660277672151787 0
 100/home/oozer/Documents/californium/react/movie_library_client/node_modules/node-gyp-build/optional.js1681660277955150507 0
-89/home/oozer/Documents/californium/react/movie_library_client/src/components/PublicList.js1681561475046884372 0
+89/home/oozer/Documents/californium/react/movie_library_client/src/components/PublicList.js1681661370187209337 0
 102/home/oozer/Documents/californium/react/movie_library_client/node_modules/react-bootstrap/package.json1681660280775137749 0
 122/home/oozer/Documents/californium/react/movie_library_client/node_modules/@popperjs/core/lib/dom-utils/isLayoutViewport.js1681660280131140663 0
 134/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/aliased1681660280212140296 1
@@ -5171,7 +5171,7 @@
 143/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.0/package.json1681660279517143440 0
 115/home/oozer/Documents/californium/react/movie_library_client/node_modules/@babel/types/lib/definitions/utils.js.map1681660280055141007 0
 100/home/oozer/Documents/californium/react/movie_library_client/node_modules/prop-types-extra/README.md1681660278421148399 0
-91/home/oozer/Documents/californium/react/movie_library_client/src/components/MovieDetails.js1681579046443388098 0
+91/home/oozer/Documents/californium/react/movie_library_client/src/components/MovieDetails.js1681661412867016258 0
 92/home/oozer/Documents/californium/react/movie_library_client/node_modules/@restart/ui/Portal1681660279646142857 1
 105/home/oozer/Documents/californium/react/movie_library_client/node_modules/@restart/ui/Portal/package.json1681660279651142834 0
 103/home/oozer/Documents/californium/react/movie_library_client/node_modules/react-bootstrap/cjs/Form.d.ts1681660280978136831 0
@@ -5714,7 +5714,7 @@
 104/home/oozer/Documents/californium/react/movie_library_client/node_modules/update-browserslist-db/LICENSE1681660277394153045 0
 114/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/node-resolver-core/src/_empty.js1681660277765151366 0
 112/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/packager-js/lib/DevPackager.js1681660278191149439 0
-84/home/oozer/Documents/californium/react/movie_library_client/src/components/Login.js1681577602638048909 0
+84/home/oozer/Documents/californium/react/movie_library_client/src/components/Login.js1681661314244462417 0
 132/home/oozer/Documents/californium/react/movie_library_client/node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.cjs.d.ts1681660278542147851 0
 88/home/oozer/Documents/californium/react/movie_library_client/node_modules/lodash/noop.js1681660281063136447 0
 102/home/oozer/Documents/californium/react/movie_library_client/node_modules/loose-envify/loose-envify.js1681660277957150498 0
@@ -5861,7 +5861,7 @@
 109/home/oozer/Documents/californium/react/movie_library_client/node_modules/@jridgewell/source-map/package.json1681660277997150317 0
 83/home/oozer/Documents/californium/react/movie_library_client/node_modules/react-dom1681660280355139650 1
 118/home/oozer/Documents/californium/react/movie_library_client/node_modules/bootstrap/scss/helpers/_visually-hidden.scss1681660281128136152 0
-83/home/oozer/Documents/californium/react/movie_library_client/dist/index.7271efb6.js1681660301756042834 0
+83/home/oozer/Documents/californium/react/movie_library_client/dist/index.7271efb6.js1681661430361937113 0
 125/home/oozer/Documents/californium/react/movie_library_client/node_modules/caniuse-lite/data/features/getboundingclientrect.js1681660280619138455 0
 100/home/oozer/Documents/californium/react/movie_library_client/node_modules/react-transition-group/cjs1681660279150145101 1
 116/home/oozer/Documents/californium/react/movie_library_client/node_modules/json-parse-even-better-errors/CHANGELOG.md1681660277593152144 0
@@ -8405,7 +8405,7 @@
 106/home/oozer/Documents/californium/react/movie_library_client/node_modules/dom-helpers/cjs/removeClass.d.ts1681660280359139631 0
 106/home/oozer/Documents/californium/react/movie_library_client/node_modules/dom-helpers/esm/activeElement.js1681660277853150968 0
 130/home/oozer/Documents/californium/react/movie_library_client/node_modules/@parcel/runtime-react-refresh/src/ReactRefreshRuntime.js1681660277892150792 0
-95/home/oozer/Documents/californium/react/movie_library_client/src/components/NowPlayingMovies.js1681476917545772691 0
+95/home/oozer/Documents/californium/react/movie_library_client/src/components/NowPlayingMovies.js1681661348486307510 0
 120/home/oozer/Documents/californium/react/movie_library_client/node_modules/caniuse-lite/data/features/web-app-manifest.js1681660281213135768 0
 112/home/oozer/Documents/californium/react/movie_library_client/node_modules/react-bootstrap/esm/PopoverHeader.d.ts1681660281097136293 0
 97/home/oozer/Documents/californium/react/movie_library_client/node_modules/@jridgewell/gen-mapping1681660278403148480 1
@@ -8956,7 +8956,7 @@
 102/home/oozer/Documents/californium/react/movie_library_client/node_modules/@react-aria/ssr/dist/main.js1681660277748151443 0
 96/home/oozer/Documents/californium/react/movie_library_client/node_modules/css-tree/data/index.js1681660279688142667 0
 103/home/oozer/Documents/californium/react/movie_library_client/node_modules/react-bootstrap/esm/Card.d.ts1681660280915137116 0
-87/home/oozer/Documents/californium/react/movie_library_client/src/components/Favorite.js1681561488043140046 0
+87/home/oozer/Documents/californium/react/movie_library_client/src/components/Favorite.js1681661306331498214 0
 95/home/oozer/Documents/californium/react/movie_library_client/node_modules/css-tree/package.json1681660280165140509 0
 90/home/oozer/Documents/californium/react/movie_library_client/node_modules/css-what/LICENSE1681660277417152941 0
 135/home/oozer/Documents/californium/react/movie_library_client/node_modules/@babel/types/lib/builders/typescript/createTSUnionType.js.map1681660279368144114 0

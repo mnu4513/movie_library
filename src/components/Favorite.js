@@ -12,7 +12,7 @@ const Favorite = () => {
     }, []);
 
     async function getData() {
-        const json = await fetch('http://localhost:3002/fav-movies', {
+        const json = await fetch('https://brief-polished-radar.glitch.me/fav-movies', {
             method: 'post', 
             headers: {
                 'Content-Type': 'application/json',

@@ -12,7 +12,7 @@ const PublicList = () => {
     }, []);
 
     async function getData() {
-        const json = await fetch('http://localhost:3002/public-list', {
+        const json = await fetch('https://brief-polished-radar.glitch.me/public-list', {
             method: 'post', 
             headers: {
                 'Content-Type': 'application/json',
