@@ -15,6 +15,7 @@ import NowPlayingMovies from './components/NowPlayingMovies';
 import Favorite from './components/Favorite';
 import CardSimmer from './components/CardSimmer';
 import PublicList from './components/PublicList';
+import Footer from './components/Footer';
 
 const App = () => {
 
@@ -22,6 +23,7 @@ const App = () => {
         <>
             <NavBar />
             <Outlet />
+            <Footer/>
         </>
     );
 };
